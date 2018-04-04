@@ -1,0 +1,3 @@
+http://expressjs.com/pt-br/guide/routing.html
+
+http://www.linhadecodigo.com.br/artigo/3585/ajax-basico-introducao.aspx
